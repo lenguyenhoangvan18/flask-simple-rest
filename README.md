@@ -1,2 +1,2 @@
-# lenguyenhoangvan18-gmail.com
+# flask-simple-rest
 flask-simple-rest
