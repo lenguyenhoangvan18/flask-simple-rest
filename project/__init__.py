@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-# Author: Rowan
 import firebase_admin
 from firebase_admin import credentials
 from flask import Flask
