@@ -13,7 +13,7 @@ DB_USERNAME = 'postgres'
 DB_PASSWORD = 'example'
 DB_DBNAME = 'postgres'
 
-JWT_SECRET_KEY = 'bc13grp2'
+JWT_SECRET_KEY = 'example'
 
 FIREBASE = {}
 
